@@ -12,8 +12,8 @@ To write a python program to implement pattern matching on the given string usin
 
 ## Program:
 #### Program to implement the Pattern Matching.
-#### Developed by: PRAVEEN S
-#### Register Number: 212222240078
+#### Developed by: HARISH RAGAV S
+#### Register Number: 212222110013
 
 ```PY
 def BF(s1,s2):
